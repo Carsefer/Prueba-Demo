@@ -1,0 +1,13 @@
+.img {
+  width: 320px;
+  height: 500px;
+}
+.contenedor {
+  margin-left: 10px;
+}
+@media screen and (max-width: 1024px) {
+  .img {
+    width: 190px;
+    height: 300px;
+  }
+}
